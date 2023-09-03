@@ -6,7 +6,7 @@ import sokoban
 
 # Constants and global variables
 ABOUT = ['''Created by: 
-Mohammed Fathi & Tarek Nakkouch 
+Mohammed Fathi 
 **ingame press r to reset game
 & esc to return**''']
 
